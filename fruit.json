@@ -1,0 +1,2660 @@
+[
+  {
+    "Common name": "Apple",
+    "Species name": "Malus pumila",
+    "Cultivar list": "Apple cultivars",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Chinese quince",
+    "Species name": "Pseudocydonia sinensis",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Chokeberry",
+    "Species name": "Aronia melanocarpa",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Cocky apple",
+    "Species name": "Planchonia careya",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Eastern mayhaw",
+    "Species name": "Crataegus aestivalis",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Hawthorn",
+    "Species name": "Crataegus rhipidophylla",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Jagua",
+    "Species name": "Genipa americana",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Loquat",
+    "Species name": "Eriobotrya japonica",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Lovi-lovi",
+    "Species name": "Flacourtia inermis",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Medlar",
+    "Species name": "Mespilus germanica",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Niedzwetzky's apple",
+    "Species name": "Malus niedzwetzkyana",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Pear",
+    "Species name": "Pyrus communis",
+    "Cultivar list": "Pear cultivars",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Quince",
+    "Species name": "Cydonia oblonga",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Ramontchi",
+    "Species name": "Flacourtia indica",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Rose hip",
+    "Species name": "Rosa rugosa",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Rowan",
+    "Species name": "Sorbus aucuparia",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Sapodilla",
+    "Species name": "Manilkara zapota",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Scarlet firethorn",
+    "Species name": "Pyracantha coccinea",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Serviceberry",
+    "Species name": "Amelanchier alnifolia",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Shipova",
+    "Species name": "× Sorbopyrus irregularis",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Sorb",
+    "Species name": "Sorbus domestica",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Southern crabapple",
+    "Species name": "Malus angustifolia",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Toyon",
+    "Species name": "Heteromeles arbutifolia",
+    "Cultivar list": "",
+    "type": "Pomes "
+  },
+  {
+    "Common name": "Açaí",
+    "Species name": "Euterpe oleracea",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Acerola",
+    "Species name": "Malpighia emarginata",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "African mango",
+    "Species name": "Irvingia gabonensis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "African mangosteen",
+    "Species name": "Garcinia livingstonei",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "African oil palm fruit",
+    "Species name": "Elaeis guineensis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Alaskan bunchberry",
+    "Species name": "Cornus × unalaschkensis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Ambarella",
+    "Species name": "Spondias dulcis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "American oil palm fruit",
+    "Species name": "Elaeis oleifera",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "American plum",
+    "Species name": "Prunus americana",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Apricot",
+    "Species name": "Prunus armeniaca",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Bambangan",
+    "Species name": "Mangifera pajang",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Beach plum",
+    "Species name": "Prunus maritima",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Bignay",
+    "Species name": "Antidesma bunius",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Binjai",
+    "Species name": "Mangifera caesia",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Black cherry",
+    "Species name": "Prunus serotina",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Bolivian mountain coconut",
+    "Species name": "Parajubaea torallyi",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Brush cherry",
+    "Species name": "Syzygium australe",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Bush butter fruit",
+    "Species name": "Dacryodes edulis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Canadian bunchberry",
+    "Species name": "Cornus canadensis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Casimiroa",
+    "Species name": "Casimiroa edulis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Cedar bay cherry",
+    "Species name": "Eugenia reinwardtiana",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Changunga",
+    "Species name": "Byrsonima crassifolia",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Cherry",
+    "Species name": "Prunus avium",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Cherry elaeagnus",
+    "Species name": "Elaeagnus multiflora",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Cherry of the rio grande",
+    "Species name": "Eugenia involucrata",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Chinese date",
+    "Species name": "Ziziphus mauritiana",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Choke cherry",
+    "Species name": "Prunus virginiana",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Cocoplum",
+    "Species name": "Chrysobalanus icaco",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Coconut",
+    "Species name": "Cocos nucifera",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Cornelian cherry",
+    "Species name": "Cornus mas",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Country-almond",
+    "Species name": "Terminalia catappa",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Creek plum",
+    "Species name": "Prunus rivularis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Crowberry",
+    "Species name": "Empetrum nigrum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Curry berry",
+    "Species name": "Murraya koenigii",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Damson",
+    "Species name": "Prunus domestica subsp. insititia",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Date",
+    "Species name": "Phoenix dactylifera",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Desert quandong",
+    "Species name": "Santalum acuminatum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Emblic",
+    "Species name": "Phyllanthus emblica",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Emu apple",
+    "Species name": "Owenia acidula",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Engkala",
+    "Species name": "Litsea garciae",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Fibrous satinash",
+    "Species name": "Syzygium fibrosum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Flatwoods plum",
+    "Species name": "Prunus umbellata",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Gomortega",
+    "Species name": "Gomortega keule",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Greengage",
+    "Species name": "Prunus domestica subsp. italica",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Green plum",
+    "Species name": "Buchanania obovata",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Guavaberry",
+    "Species name": "Myrciaria floribunda",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Gubinge",
+    "Species name": "Terminalia ferdinandiana",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Hairless rambutan",
+    "Species name": "Nephelium xerospermoides",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Jambolan",
+    "Species name": "Syzygium cumini",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Jelly palm fruit",
+    "Species name": "Butia capitata",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Jocote",
+    "Species name": "Spondias purpurea",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Jujube",
+    "Species name": "Ziziphus jujuba",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Kelsey plum",
+    "Species name": "Prunus salicina spp.",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "King coconut",
+    "Species name": "Cocos nucifera var. aurantiaca",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Korlan",
+    "Species name": "Nephelium hypoleucum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Little gooseberry",
+    "Species name": "Buchanania arborescens",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Longan",
+    "Species name": "Dimocarpus longan",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Lychee",
+    "Species name": "Litchi chinensis",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Malay rose apple",
+    "Species name": "Syzygium malaccense",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Mamey sapote",
+    "Species name": "Pouteria sapota",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Mango",
+    "Species name": "Mangifera indica",
+    "Cultivar list": "Mango cultivars",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Maprang",
+    "Species name": "Bouea macrophylla",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Marula",
+    "Species name": "Sclerocarya birrea",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Miracle fruit",
+    "Species name": "Synsepalum dulcificum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Moriche palm fruit",
+    "Species name": "Mauritia flexuosa",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Nectarine",
+    "Species name": "Prunus persica var. nucipersica",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Neem",
+    "Species name": "Azadirachta indica",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Nepali hog plum",
+    "Species name": "Choerospondias axillaris",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Nutmeg",
+    "Species name": "Myristica fragrans",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Otaheite gooseberry",
+    "Species name": "Phyllanthus acidus",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Peach",
+    "Species name": "Prunus persica",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Peanut butter fruit",
+    "Species name": "Bunchosia glandulifera",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Pequi",
+    "Species name": "Caryocar brasiliense",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Pigeon plum",
+    "Species name": "Coccoloba diversifolia",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Pili",
+    "Species name": "Canarium ovatum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Pitanga",
+    "Species name": "Eugenia uniflora",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Plum",
+    "Species name": "Prunus domestica",
+    "Cultivar list": "Plum cultivars",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Pulasan",
+    "Species name": "Nephelium mutabile",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Rambutan",
+    "Species name": "Nephelium lappaceum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Red bush apple",
+    "Species name": "Syzygium suborbiculare",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Riberry",
+    "Species name": "Syzygium luehmannii",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Sageretia",
+    "Species name": "Sageretia theezans",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Saw palmetto fruit",
+    "Species name": "Serenoa repens",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Sea coconut",
+    "Species name": "Lodoicea maldivica",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Shoebutton ardisia",
+    "Species name": "Ardisia elliptica",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Silver buffaloberry",
+    "Species name": "Shepherdia argentea",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Sloe",
+    "Species name": "Prunus spinosa",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Spanish cherry",
+    "Species name": "Mimusops elengi",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Spanish lime",
+    "Species name": "Melicoccus bijugatus",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Tamarind-plum",
+    "Species name": "Dialium indum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Velvet tamarind",
+    "Species name": "Dialium cochinchinense",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Velvet tamarind",
+    "Species name": "Dialium guineense",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Watery rose apple",
+    "Species name": "Syzygium aqueum",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Wax apple",
+    "Species name": "Syzygium samarangense",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Wild peach",
+    "Species name": "Terminalia carpentariae",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Wongi",
+    "Species name": "Manilkara kauki",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Yangmei",
+    "Species name": "Myrica rubra",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Yellow plum",
+    "Species name": "Ximenia americana",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Zwetschge",
+    "Species name": "Prunus domestica subsp. domestica",
+    "Cultivar list": "",
+    "type": "Drupes"
+  },
+  {
+    "Common name": "Common name",
+    "Species name": "Species name",
+    "Cultivar list": "Cultivar list",
+    "type": ""
+  },
+  {
+    "Common name": "African cherry orange",
+    "Species name": "Citropsis articulata",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Amanatsu",
+    "Species name": "Citrus × natsudaidai",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Bajoura citron",
+    "Species name": "Citrus medica ssp. bajoura",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Bergamot orange",
+    "Species name": "Citrus bergamia",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Bitter orange",
+    "Species name": "Citrus × aurantium",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Blood lime",
+    "Species name": "Citrus australasica var. sanguinea x 'Ellendale Mandarin'",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Blood orange",
+    "Species name": "Citrus × sinensis 'Blood Orange'",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Buddha's hand",
+    "Species name": "Citrus medica var. sarcodactylis",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Calamondin",
+    "Species name": "× Citrofortunella microcarpa",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Cam sành",
+    "Species name": "Citrus reticulata × sinensis",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Centennial variegated kumquat",
+    "Species name": "Citrus margarita 'Centennial Variegated Kumquat'",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Citron",
+    "Species name": "Citrus medica",
+    "Cultivar list": "Citron cultivars",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Clementine",
+    "Species name": "Citrus × clementina",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Desert lime",
+    "Species name": "Citrus glauca",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Etrog",
+    "Species name": "Citrus medica var. ethrog",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Finger lime",
+    "Species name": "Citrus australasica",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Florentine citron",
+    "Species name": "Citrus × limonimedica",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Grapefruit",
+    "Species name": "Citrus × paradisi",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Hyuganatsu",
+    "Species name": "Citrus tamurana",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Ichang papeda",
+    "Species name": "Citrus cavaleriei",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Iyokan",
+    "Species name": "Citrus × iyo",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Jiangsu kumquat",
+    "Species name": "Citrus obovata",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Kabosu",
+    "Species name": "Citrus sphaerocarpa",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Kaffir lime",
+    "Species name": "Citrus hystrix",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Key lime",
+    "Species name": "Citrus × aurantiifolia",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Kinnow",
+    "Species name": "Citrus nobilis × citrus × deliciosa",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Kiyomi",
+    "Species name": "Citrus unshiu × citrus sinensis",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Kumquat",
+    "Species name": "Citrus japonica",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Lemon",
+    "Species name": "Citrus limon",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Lime",
+    "Species name": "Citrus × latifolia",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Limequat",
+    "Species name": "Citrus × floridana",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Mandarin orange",
+    "Species name": "Citrus reticulata",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Mangshanyegan",
+    "Species name": "Citrus mangshanensis",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Meyer lemon",
+    "Species name": "Citrus × meyeri",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Myrtle-leaved orange",
+    "Species name": "Citrus myrtifolia",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Ōgonkan",
+    "Species name": "Citrus flaviculpus",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Orange",
+    "Species name": "Citrus × sinensis",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Oroblanco",
+    "Species name": "Citrus grandis × citrus paradisi",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Oval kumquat",
+    "Species name": "Citrus margarita",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Persian lime",
+    "Species name": "Citrus × latifolia",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Pomelo",
+    "Species name": "Citrus maxima",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Ponderosa lemon",
+    "Species name": "Citrus × pyriformis",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Rangpur",
+    "Species name": "Citrus × limonia",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Round lime",
+    "Species name": "Citrus australis",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Satsuma mandarin",
+    "Species name": "Citrus unshiu",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Shangjuan",
+    "Species name": "Citrus cavaleriei × citrus",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Shonan gold",
+    "Species name": "Citrus flaviculpus × citrus unshiu",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Sudachi",
+    "Species name": "Citrus sudachi",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Sweet limetta",
+    "Species name": "Citrus limetta",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Taiwan tangerine",
+    "Species name": "Citrus × depressa",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Tangelo",
+    "Species name": "Citrus × tangelo",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Tangerine",
+    "Species name": "Citrus tangerina",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Tangor",
+    "Species name": "Citrus reticulata × sinensis",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Ugli fruit",
+    "Species name": "Citrus reticulata × citrus paradisi",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Yuzu",
+    "Species name": "Citrus junos",
+    "Cultivar list": "",
+    "type": "citruses"
+  },
+  {
+    "Common name": "Achacha",
+    "Species name": "Garcinia humilis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Amazon grape",
+    "Species name": "Pourouma cecropiifolia",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "American black elderberry",
+    "Species name": "Sambucus canadensis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "American red elderberry",
+    "Species name": "Sambucus pubens",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "American red raspberry",
+    "Species name": "Rubus strigosus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Angular sea-fig",
+    "Species name": "Carpobrotus glaucescens",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Apple berry",
+    "Species name": "Billardiera scandens",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Arabian coffee",
+    "Species name": "Coffea arabica",
+    "Cultivar list": "Coffee cultivars",
+    "type": "berries"
+  },
+  {
+    "Common name": "Araza",
+    "Species name": "Eugenia stipitata",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Atherton raspberry",
+    "Species name": "Rubus probus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Barberry",
+    "Species name": "Berberis vulgaris",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Bearberry",
+    "Species name": "Arctostaphylos uva-ursi",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Bengal currant",
+    "Species name": "Carissa carandas",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Bilberry",
+    "Species name": "Vaccinium myrtillus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Black currant",
+    "Species name": "Ribes nigrum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Black mulberry",
+    "Species name": "Morus nigra",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Blackberry",
+    "Species name": "Rubus allegheniensis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Blue guarri",
+    "Species name": "Euclea crispa",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Blue tongue",
+    "Species name": "Melastoma affine",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Blueberry",
+    "Species name": "Vaccinium corymbosum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Bolwarra",
+    "Species name": "Eupomatia laurina",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Boquila",
+    "Species name": "Boquila trifoliolata",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Boysenberry",
+    "Species name": "Rubus ursinus × rubus idaeus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Brazil cherry",
+    "Species name": "Eugenia brasiliensis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Calabur fruit",
+    "Species name": "Muntingia calabura",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Calligonum junceum",
+    "Species name": "Calligonum junceum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Camu camu",
+    "Species name": "Myrciaria dubia",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Cape gooseberry",
+    "Species name": "Physalis peruviana",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Cattley guava",
+    "Species name": "Psidium cattleyanum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Ceylon gooseberry",
+    "Species name": "Dovyalis hebecarpa",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Chilean guava",
+    "Species name": "Ugni molinae",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Cloudberry",
+    "Species name": "Rubus chamaemorus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Coarse dodder-laurel fruit",
+    "Species name": "Cassytha melantha",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Copperleaf snowberry",
+    "Species name": "Gaultheria hispida",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Conkerberry",
+    "Species name": "Carissa spinarum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Cranberry",
+    "Species name": "Vaccinium macrocarpon",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Creeping raspberry",
+    "Species name": "Rubus hayata-koidzumii",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Cudrang",
+    "Species name": "Maclura tricuspidata",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Darwin's barberry",
+    "Species name": "Berberis darwinii",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Date-plum",
+    "Species name": "Diospyros lotus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Dewberry",
+    "Species name": "Rubus flagellaris",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Eastern teaberry",
+    "Species name": "Gaultheria procumbens",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Elderberry",
+    "Species name": "Sambucus nigra",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Emu berry",
+    "Species name": "Grewia retusifolia",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Fox grape",
+    "Species name": "Vitis labrusca",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Golden kiwifruit",
+    "Species name": "Actinidia chinensis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Gooseberry",
+    "Species name": "Ribes uva-crispa",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Grape",
+    "Species name": "Vitis vinifera",
+    "Cultivar list": "Grape cultivars",
+    "type": "berries"
+  },
+  {
+    "Common name": "Hackberry",
+    "Species name": "Celtis occidentalis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Hardy kiwi",
+    "Species name": "Actinidia arguta",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Honeyberry",
+    "Species name": "Lonicera caerulea",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Honeysuckle",
+    "Species name": "Lonicera periclymenum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Huckleberry",
+    "Species name": "Vaccinium ovatum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Jabuticaba",
+    "Species name": "Plinia cauliflora",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Japanese bramble berry",
+    "Species name": "Rubus parvifolius",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Kei apple",
+    "Species name": "Dovyalis caffra",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Kiwifruit",
+    "Species name": "Actinidia deliciosa",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Kokum",
+    "Species name": "Garcinia indica",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Kwai muk",
+    "Species name": "Artocarpus hypargyreus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Langsat",
+    "Species name": "Lansium parasiticum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Lemon aspen fruit",
+    "Species name": "Acronychia acidula",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Limeberry",
+    "Species name": "Triphasia trifolia",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Lingonberry",
+    "Species name": "Vaccinium vitis-idaea",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Loganberry",
+    "Species name": "Rubus × loganobaccus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Mangaba",
+    "Species name": "Hancornia speciosa",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Maqui berry",
+    "Species name": "Aristotelia chilensis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Mayapple",
+    "Species name": "Podophyllum peltatum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Midgen berry",
+    "Species name": "Austromyrtus dulcis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Molucca bramble berry",
+    "Species name": "Rubus moluccanus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Mora común",
+    "Species name": "Rubus adenotrichos",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Mora de castilla",
+    "Species name": "Rubus glaucus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Mortiño",
+    "Species name": "Vaccinium floribundum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Muntrie",
+    "Species name": "Kunzea pomifera",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Muscadine",
+    "Species name": "Vitis rotundifolia",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Nannyberry",
+    "Species name": "Viburnum lentago",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Native cherry",
+    "Species name": "Exocarpos cupressiformis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Native currant",
+    "Species name": "Acrotriche depressa",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Oregon grape",
+    "Species name": "Mahonia aquifolium",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Pentadiplandra brazzeana",
+    "Species name": "Pentadiplandra brazzeana",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Phalsa",
+    "Species name": "Grewia asiatica",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Pitomba-da-bahia",
+    "Species name": "Eugenia luschnathiana",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Purple apple-berry",
+    "Species name": "Billardiera longiflora",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Purple guava",
+    "Species name": "Psidium rufum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Raspberry",
+    "Species name": "Rubus strigosus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Red currant",
+    "Species name": "Ribes rubrum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Red huckleberry",
+    "Species name": "Vaccinium parvifolium",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Red mulberry",
+    "Species name": "Morus rubra",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Roseleaf bramble berry",
+    "Species name": "Rubus rosifolius",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Rukam",
+    "Species name": "Flacourtia rukam",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Salal",
+    "Species name": "Gaultheria shallon",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Salmonberry",
+    "Species name": "Rubus spectabilis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Saskatoon",
+    "Species name": "Amelanchier alnifolia",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Sea buckthorn",
+    "Species name": "Hippophae rhamnoides",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Sea grape",
+    "Species name": "Coccoloba uvifera",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Small-leaved myrtle berry",
+    "Species name": "Archirhodomyrtus beckleri",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Small-leaved tamarind",
+    "Species name": "Diploglottis campbellii",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Spanish tamarind",
+    "Species name": "Vangueria madagascariensis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Strawberry",
+    "Species name": "Fragaria",
+    "Cultivar list": "Strawberry cultivars",
+    "type": "berries"
+  },
+  {
+    "Common name": "Strawberry tree fruit",
+    "Species name": "Arbutus unedo",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Sweet apple-berry",
+    "Species name": "Billardiera cymosa",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Tamarillo",
+    "Species name": "Solanum betaceum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Tayberry",
+    "Species name": "Rubus fruticosus × rubus idaeus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Texas persimmon",
+    "Species name": "Diospyros texana",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Thimbleberry",
+    "Species name": "Rubus parviflorus",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Wampee",
+    "Species name": "Clausena lansium",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "White aspen berry",
+    "Species name": "Acronychia oblongifolia",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "White bark raspberry",
+    "Species name": "Rubus leucodermis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "White mulberry",
+    "Species name": "Morus alba",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Wild orange",
+    "Species name": "Capparis mitchellii",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Wild strawberry",
+    "Species name": "Fragaria vesca",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Wineberry",
+    "Species name": "Rubus phoenicolasius",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Wolfberry",
+    "Species name": "Lycium barbarum",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Yantok",
+    "Species name": "Calamus manillensis",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Yellow mombin",
+    "Species name": "Spondias mombin",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Youngberry",
+    "Species name": "Rubus caesius 'Youngberry'",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Zig-zag vine fruit",
+    "Species name": "Melodorum leichhardtii",
+    "Cultivar list": "",
+    "type": "berries"
+  },
+  {
+    "Common name": "Bailan melon",
+    "Species name": "Cucumis melo var. inodorus 'Bailan Melon'",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Canary melon",
+    "Species name": "Cucumis melo var. inodorus 'Canary Melon'",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Cassabanana",
+    "Species name": "Sicana odorifera",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Collective farm woman melon",
+    "Species name": "Cucumis melo 'Collective Farm Woman Melon'",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Crane melon",
+    "Species name": "Cucumis melo 'Crane Melon'",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Crenshaw melon",
+    "Species name": "Cucumis melo 'Crenshaw Melon'",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "European cantaloupe",
+    "Species name": "Cucumis melo var. cantalupensis",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Honeydew melon",
+    "Species name": "Cucumis melo var. inodorus",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Horned melon",
+    "Species name": "Cucumis metuliferus",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Korean melon",
+    "Species name": "Cucumis melo var. makuwa",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Muskmelon",
+    "Species name": "Cucumis melo",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "North american cantaloupe",
+    "Species name": "Cucumis melo var. reticulatus",
+    "Cultivar list": "Reticulatus group cultivars",
+    "type": "melons"
+  },
+  {
+    "Common name": "Santa claus melon",
+    "Species name": "Cucumis melo var. inodorus 'Santa Claus Melon'",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Sprite melon",
+    "Species name": "Cucumis melo 'Sprite Melon'",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Tigger melon",
+    "Species name": "Cucumis melo 'Tigger Melon'",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Watermelon",
+    "Species name": "Citrullus lanatus",
+    "Cultivar list": "",
+    "type": "melons"
+  },
+  {
+    "Common name": "Abiu",
+    "Species name": "Pouteria caimito",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Ackee",
+    "Species name": "Blighia sapida",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "African custard-apple",
+    "Species name": "Annona senegalensis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "African locust bean",
+    "Species name": "Parkia biglobosa",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Aglaia teysmanniana",
+    "Species name": "Aglaia teysmanniana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "American persimmon",
+    "Species name": "Diospyros virginiana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Annona conica",
+    "Species name": "Annona conica",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Asam gelugur",
+    "Species name": "Garcinia atroviridis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Asam kelubi",
+    "Species name": "Eleiodoxa conferta",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Atemoya",
+    "Species name": "Annona squamosa × annona cherimola",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Babaco",
+    "Species name": "Vasconcellea × heilbornii",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Bacuri",
+    "Species name": "Platonia insignis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Bael",
+    "Species name": "Aegle marmelos",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Banana",
+    "Species name": "Musa acuminata 'Cavendish'",
+    "Cultivar list": "Banana cultivars",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Bilimbi",
+    "Species name": "Averrhoa bilimbi",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Biribá",
+    "Species name": "Rollinia deliciosa",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Black apple",
+    "Species name": "Pouteria australis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Black sapote",
+    "Species name": "Diospyros nigra",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Brazilian guava",
+    "Species name": "Psidium guineense",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Breadfruit",
+    "Species name": "Artocarpus altilis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Breadnut",
+    "Species name": "Artocarpus camansi",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Burahol",
+    "Species name": "Stelechocarpus burahol",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Burdekin plum",
+    "Species name": "Pleiogynium timoriense",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Burmese grape",
+    "Species name": "Baccaurea ramiflora",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Button mangosteen",
+    "Species name": "Garcinia prainiana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Cacao",
+    "Species name": "Theobroma cacao",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Cainito",
+    "Species name": "Chrysophyllum cainito",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Canistel",
+    "Species name": "Pouteria campechiana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Cashew apple",
+    "Species name": "Anacardium occidentale",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Cawesh",
+    "Species name": "Annona scleroderma",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Cempedak",
+    "Species name": "Artocarpus integer",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Charichuelo",
+    "Species name": "Garcinia madruno",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Cherimoya",
+    "Species name": "Annona cherimola",
+    "Cultivar list": "Cherimoya cultivars",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Cluster fig",
+    "Species name": "Ficus racemosa",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Costa rican guava",
+    "Species name": "Psidium friedrichsthalianum",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Courbaril",
+    "Species name": "Hymenaea courbaril",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Cupuaçu",
+    "Species name": "Theobroma grandiflorum",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Custard apple",
+    "Species name": "Annona reticulata",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Davidson's plum",
+    "Species name": "Davidsonia jerseyana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Dead man's fingers",
+    "Species name": "Decaisnea insignis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Desert fig",
+    "Species name": "Ficus platypoda",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Doub palm fruit",
+    "Species name": "Borassus flabellifer",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Duguetia confinis",
+    "Species name": "Duguetia confinis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Duguetia spixiana",
+    "Species name": "Duguetia spixiana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Durian",
+    "Species name": "Durio zibethinus",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Elephant apple",
+    "Species name": "Dillenia indica",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Feijoa",
+    "Species name": "Acca sellowiana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Ficus carrii",
+    "Species name": "Ficus carrii",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Fig",
+    "Species name": "Ficus carica",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Gấc",
+    "Species name": "Momordica cochinchinensis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Gamboge",
+    "Species name": "Garcinia morella",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Garcinia cambogia",
+    "Species name": "Garcinia gummi-gutta",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Garcinia forbesii",
+    "Species name": "Garcinia forbesii",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Giant granadilla",
+    "Species name": "Passiflora quadrangularis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Glenniea philippinensis",
+    "Species name": "Glenniea philippinensis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Guava",
+    "Species name": "Psidium guajava",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Hala fruit",
+    "Species name": "Pandanus tectorius",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Hydnora abyssinica",
+    "Species name": "Hydnora abyssinica",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Ice-cream bean",
+    "Species name": "Inga edulis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Ilama",
+    "Species name": "Annona diversifolia",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Jackfruit",
+    "Species name": "Artocarpus heterophyllus",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Jícara",
+    "Species name": "Crescentia cujete",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Kola nut",
+    "Species name": "Cola nitida",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Keluak",
+    "Species name": "Pangium edule",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Kundong",
+    "Species name": "Garcinia parvifolia",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Lardizabala",
+    "Species name": "Lardizabala biternata",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Lúcuma",
+    "Species name": "Pouteria lucuma",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Luóhàn guǒ",
+    "Species name": "Siraitia grosvenorii",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Malabar plum",
+    "Species name": "Syzygium jambos",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Mammee",
+    "Species name": "Mammea americana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Marolo",
+    "Species name": "Annona crassiflora",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Maypop",
+    "Species name": "Passiflora incarnata",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Menteng",
+    "Species name": "Baccaurea racemosa",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Monkey fruit",
+    "Species name": "Artocarpus lacucha",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Monkey jackfruit",
+    "Species name": "Artocarpus rigidus",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Monkeypod",
+    "Species name": "Pithecellobium dulce",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Monstera deliciosa",
+    "Species name": "Monstera deliciosa",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Mountain soursop",
+    "Species name": "Annona montana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Mundu",
+    "Species name": "Garcinia dulcis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Naranjilla",
+    "Species name": "Solanum quitoense",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Natal orange",
+    "Species name": "Strychnos spinosa",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Noni",
+    "Species name": "Morinda citrifolia",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Ooray",
+    "Species name": "Davidsonia pruriens",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Papaya",
+    "Species name": "Carica papaya",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Passiflora platyloba",
+    "Species name": "Passiflora platyloba",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Passionfruit",
+    "Species name": "Passiflora edulis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Pawpaw",
+    "Species name": "Asimina triloba",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Pepino",
+    "Species name": "Solanum muricatum",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Persimmon",
+    "Species name": "Diospyros kaki",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Pineapple",
+    "Species name": "Ananas comosus",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Pomegranate",
+    "Species name": "Punica granatum",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Pond apple",
+    "Species name": "Annona glabra",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Purple mangosteen",
+    "Species name": "Garcinia mangostana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Red fruit",
+    "Species name": "Pandanus conoideus",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Salak",
+    "Species name": "Salacca zalacca",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Sandpaper fig",
+    "Species name": "Ficus coronata",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Santol",
+    "Species name": "Sandoricum koetjape",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Smooth davidson's plum",
+    "Species name": "Davidsonia johnsonii",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Soncoya",
+    "Species name": "Annona purpurea",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Soursop",
+    "Species name": "Annona muricata",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "South american sapote",
+    "Species name": "Quararibea cordata",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Star fruit",
+    "Species name": "Averrhoa carambola",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Strangler fig",
+    "Species name": "Ficus aurea",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Sugar-apple",
+    "Species name": "Annona squamosa",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Sweet granadilla",
+    "Species name": "Passiflora ligularis",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Sycamore fig",
+    "Species name": "Ficus sycomorus",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Tamarind",
+    "Species name": "Tamarindus indica",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Terap",
+    "Species name": "Artocarpus odoratissimus",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Trichosanthes beccariana",
+    "Species name": "Trichosanthes beccariana",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Vanilla",
+    "Species name": "Vanilla planifolia",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Velvet apple",
+    "Species name": "Diospyros blancoi",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "White fig",
+    "Species name": "Ficus virens",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Wild jack",
+    "Species name": "Artocarpus hirsutus",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Wood-apple",
+    "Species name": "Limonia acidissima",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Yellow granadilla",
+    "Species name": "Passiflora edulis f flavicarpa",
+    "Cultivar list": "",
+    "type": "tropical fruit"
+  },
+  {
+    "Common name": "Bilberry cactus fruit",
+    "Species name": "Myrtillocactus geometrizans",
+    "Cultivar list": "",
+    "type": "cacti"
+  },
+  {
+    "Common name": "Cardón fruit",
+    "Species name": "Pachycereus pringlei",
+    "Cultivar list": "",
+    "type": "cacti"
+  },
+  {
+    "Common name": "Dragon fruit",
+    "Species name": "Hylocereus undatus",
+    "Cultivar list": "",
+    "type": "cacti"
+  },
+  {
+    "Common name": "Karkalla fruit",
+    "Species name": "Carpobrotus rossii",
+    "Cultivar list": "",
+    "type": "cacti"
+  },
+  {
+    "Common name": "Peruvian apple cactus fruit",
+    "Species name": "Cereus repandus",
+    "Cultivar list": "",
+    "type": "cacti"
+  },
+  {
+    "Common name": "Prickly pear fruit",
+    "Species name": "Opuntia ficus-indica",
+    "Cultivar list": "",
+    "type": "cacti"
+  },
+  {
+    "Common name": "Saguaro fruit",
+    "Species name": "Carnegiea gigantea",
+    "Cultivar list": "",
+    "type": "cacti"
+  },
+  {
+    "Common name": "Juniper berry",
+    "Species name": "Juniperus communis",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Kahikatea",
+    "Species name": "Dacrycarpus dacrydioides",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Manoao",
+    "Species name": "Manoao colensoi",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Nageia",
+    "Species name": "Nageia nagi",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Plum pine fruit",
+    "Species name": "Podocarpus elatus",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Podocarpus",
+    "Species name": "Podocarpus elongatus",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Prumnopitys",
+    "Species name": "Prumnopitys andina",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Raisin tree fruit",
+    "Species name": "Hovenia dulcis",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Rhubarb",
+    "Species name": "Rheum × hybridum",
+    "Cultivar list": "Rhubarb cultivars",
+    "type": "plants"
+  },
+  {
+    "Common name": "Rimu",
+    "Species name": "Dacrydium cupressinum",
+    "Cultivar list": "",
+    "type": "plants"
+  },
+  {
+    "Common name": "Totara",
+    "Species name": "Podocarpus totara",
+    "Cultivar list": "",
+    "type": "plants"
+  }
+ ]
